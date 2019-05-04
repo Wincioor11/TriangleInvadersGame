@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10e2256d-43d3-4179-a4e7-8d95c5509d0d" name="Default Changelist" comment="" />
+    <list default="true" id="10e2256d-43d3-4179-a4e7-8d95c5509d0d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/screenshots/screen6.png" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,14 +227,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48007247" visible="true" weight="0.1784534" />
-      <window_info id="Structure" order="1" sideWeight="0.51992756" side_tool="true" visible="true" weight="0.1784534" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48016998" visible="true" weight="0.1784534" />
+      <window_info id="Structure" order="1" sideWeight="0.51983005" side_tool="true" visible="true" weight="0.1784534" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49966952" visible="true" weight="0.2181303" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966952" weight="0.2181303" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
