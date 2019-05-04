@@ -1,5 +1,5 @@
 # TriangleInvadersGame
-2D game made using :
+2D game connected with db, made using :
   - pygame
   - sqlite3
 
